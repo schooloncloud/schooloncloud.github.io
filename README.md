@@ -1,2 +1,0 @@
-# schooloncloud.github.io
-website
